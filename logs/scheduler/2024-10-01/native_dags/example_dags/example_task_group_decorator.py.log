@@ -1,0 +1,29 @@
+[2024-10-01T20:07:20.116+0700] {processor.py:186} INFO - Started process (PID=52143) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-10-01T20:07:20.118+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-10-01T20:07:20.118+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:20.118+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-10-01T20:07:20.187+0700] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-10-01T20:07:20.334+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:20.333+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:example_task_group_decorator
+[2024-10-01T20:07:20.345+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:20.345+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_task_group_decorator
+[2024-10-01T20:07:20.349+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:20.349+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_task_group_decorator
+[2024-10-01T20:07:20.362+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:20.362+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_task_group_decorator
+[2024-10-01T20:07:20.365+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:20.365+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_task_group_decorator
+[2024-10-01T20:07:20.396+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:20.396+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_task_group_decorator
+[2024-10-01T20:07:20.400+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:20.399+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_task_group_decorator
+[2024-10-01T20:07:20.400+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:20.400+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:07:20.412+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:20.412+0700] {dag.py:3262} INFO - Creating ORM DAG for example_task_group_decorator
+[2024-10-01T20:07:20.412+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:20.412+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-10-01T20:07:20.423+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.309 seconds
+[2024-10-01T20:10:09.485+0700] {processor.py:186} INFO - Started process (PID=52331) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-10-01T20:10:09.487+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-10-01T20:10:09.487+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:10:09.487+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-10-01T20:10:09.557+0700] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-10-01T20:10:09.616+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:10:09.615+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:10:09.621+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:10:09.621+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-10-01T20:10:09.639+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.155 seconds
+[2024-10-01T20:12:37.427+0700] {processor.py:186} INFO - Started process (PID=52585) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-10-01T20:12:37.428+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-10-01T20:12:37.429+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:12:37.429+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-10-01T20:12:37.505+0700] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-10-01T20:12:37.555+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:12:37.555+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:12:37.560+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:12:37.560+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-10-01T20:12:37.570+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.147 seconds

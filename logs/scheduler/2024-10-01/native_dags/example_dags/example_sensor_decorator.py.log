@@ -1,0 +1,32 @@
+[2024-10-01T20:07:52.122+0700] {processor.py:186} INFO - Started process (PID=52172) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-10-01T20:07:52.123+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-10-01T20:07:52.123+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:52.123+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-10-01T20:07:52.195+0700] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-10-01T20:07:52.240+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:52.240+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-01T20:07:52.349+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:52.349+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_sensor_decorator
+[2024-10-01T20:07:52.354+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:52.354+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:example_sensor_decorator
+[2024-10-01T20:07:52.363+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:52.363+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_sensor_decorator
+[2024-10-01T20:07:52.370+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:52.370+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_sensor_decorator
+[2024-10-01T20:07:52.382+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:52.382+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_sensor_decorator
+[2024-10-01T20:07:52.386+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:52.386+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_sensor_decorator
+[2024-10-01T20:07:52.390+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:52.390+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_sensor_decorator
+[2024-10-01T20:07:52.391+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:52.391+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:07:52.397+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:52.396+0700] {dag.py:3262} INFO - Creating ORM DAG for example_sensor_decorator
+[2024-10-01T20:07:52.397+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:52.397+0700] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-10-01T20:07:52.408+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.288 seconds
+[2024-10-01T20:10:36.892+0700] {processor.py:186} INFO - Started process (PID=52367) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-10-01T20:10:36.894+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-10-01T20:10:36.894+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:10:36.894+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-10-01T20:10:36.952+0700] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-10-01T20:10:36.998+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:10:36.997+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-01T20:10:37.018+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:10:37.018+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:10:37.023+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:10:37.023+0700] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-10-01T20:10:37.034+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.144 seconds
+[2024-10-01T20:13:04.833+0700] {processor.py:186} INFO - Started process (PID=52612) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-10-01T20:13:04.835+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-10-01T20:13:04.835+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:13:04.835+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-10-01T20:13:04.897+0700] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-10-01T20:13:04.940+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:13:04.940+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-01T20:13:04.964+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:13:04.964+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:13:04.968+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:13:04.968+0700] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-10-01T20:13:04.980+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.150 seconds

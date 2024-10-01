@@ -1,0 +1,29 @@
+[2024-10-01T20:07:55.248+0700] {processor.py:186} INFO - Started process (PID=52175) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-01T20:07:55.250+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-10-01T20:07:55.250+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:55.250+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-01T20:07:55.305+0700] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-01T20:07:55.453+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:55.453+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_python_operator
+[2024-10-01T20:07:55.461+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:55.461+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_python_operator
+[2024-10-01T20:07:55.467+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:55.467+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:example_python_operator
+[2024-10-01T20:07:55.479+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:55.479+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_python_operator
+[2024-10-01T20:07:55.486+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:55.486+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_python_operator
+[2024-10-01T20:07:55.491+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:55.490+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_python_operator
+[2024-10-01T20:07:55.495+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:55.495+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_python_operator
+[2024-10-01T20:07:55.496+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:55.496+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:07:55.502+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:55.502+0700] {dag.py:3262} INFO - Creating ORM DAG for example_python_operator
+[2024-10-01T20:07:55.502+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:55.502+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-10-01T20:07:55.518+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.272 seconds
+[2024-10-01T20:10:39.958+0700] {processor.py:186} INFO - Started process (PID=52372) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-01T20:10:39.960+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-10-01T20:10:39.961+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:10:39.961+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-01T20:10:40.017+0700] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-01T20:10:40.156+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:10:40.156+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:10:40.162+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:10:40.161+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-10-01T20:10:40.172+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.217 seconds
+[2024-10-01T20:13:07.459+0700] {processor.py:186} INFO - Started process (PID=52615) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-01T20:13:07.461+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-10-01T20:13:07.461+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:13:07.461+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-01T20:13:07.507+0700] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-01T20:13:07.626+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:13:07.626+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:13:07.631+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:13:07.631+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-10-01T20:13:07.669+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.214 seconds

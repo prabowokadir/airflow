@@ -1,0 +1,29 @@
+[2024-10-01T20:06:55.070+0700] {processor.py:186} INFO - Started process (PID=52105) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-01T20:06:55.071+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-01T20:06:55.072+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:06:55.072+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-01T20:06:55.120+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-01T20:06:55.258+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:06:55.257+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:tutorial_dag
+[2024-10-01T20:06:55.268+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:06:55.268+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:tutorial_dag
+[2024-10-01T20:06:55.273+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:06:55.273+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:tutorial_dag
+[2024-10-01T20:06:55.283+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:06:55.283+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:tutorial_dag
+[2024-10-01T20:06:55.287+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:06:55.287+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:tutorial_dag
+[2024-10-01T20:06:55.294+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:06:55.294+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:tutorial_dag
+[2024-10-01T20:06:55.298+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:06:55.298+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:tutorial_dag
+[2024-10-01T20:06:55.299+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:06:55.298+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:06:55.304+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:06:55.304+0700] {dag.py:3262} INFO - Creating ORM DAG for tutorial_dag
+[2024-10-01T20:06:55.305+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:06:55.305+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-01T20:06:55.320+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.252 seconds
+[2024-10-01T20:09:44.339+0700] {processor.py:186} INFO - Started process (PID=52297) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-01T20:09:44.340+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-01T20:09:44.340+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:09:44.340+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-01T20:09:44.394+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-01T20:09:44.445+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:09:44.445+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:09:44.450+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:09:44.450+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-01T20:09:44.461+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.125 seconds
+[2024-10-01T20:12:14.232+0700] {processor.py:186} INFO - Started process (PID=52559) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-01T20:12:14.233+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-01T20:12:14.233+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:12:14.233+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-01T20:12:14.281+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-01T20:12:14.334+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:12:14.334+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:12:14.338+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:12:14.338+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-01T20:12:14.356+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.127 seconds

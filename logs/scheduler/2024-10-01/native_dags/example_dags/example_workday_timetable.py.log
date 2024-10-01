@@ -1,0 +1,35 @@
+[2024-10-01T20:07:07.498+0700] {processor.py:186} INFO - Started process (PID=52121) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-01T20:07:07.499+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-01T20:07:07.500+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.500+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-01T20:07:07.503+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.503+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-01T20:07:07.522+0700] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-01T20:07:07.607+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.606+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-01T20:07:07.751+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.751+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_workday_timetable
+[2024-10-01T20:07:07.763+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.762+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:example_workday_timetable
+[2024-10-01T20:07:07.784+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.783+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_workday_timetable
+[2024-10-01T20:07:07.815+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.815+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_workday_timetable
+[2024-10-01T20:07:07.819+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.819+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_workday_timetable
+[2024-10-01T20:07:07.823+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.823+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_workday_timetable
+[2024-10-01T20:07:07.832+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.832+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_workday_timetable
+[2024-10-01T20:07:07.832+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.832+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:07:07.843+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.842+0700] {dag.py:3262} INFO - Creating ORM DAG for example_workday_timetable
+[2024-10-01T20:07:07.847+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:07:07.846+0700] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-01 00:00:00+00:00, run_after=2021-01-02 00:00:00+00:00
+[2024-10-01T20:07:07.870+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py took 0.375 seconds
+[2024-10-01T20:09:56.550+0700] {processor.py:186} INFO - Started process (PID=52316) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-01T20:09:56.551+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-01T20:09:56.552+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:09:56.552+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-01T20:09:56.556+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:09:56.556+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-01T20:09:56.563+0700] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-01T20:09:56.639+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:09:56.639+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-01T20:09:56.664+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:09:56.664+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:09:56.673+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:09:56.672+0700] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-01 00:00:00+00:00, run_after=2021-01-02 00:00:00+00:00
+[2024-10-01T20:09:56.685+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py took 0.137 seconds
+[2024-10-01T20:12:26.149+0700] {processor.py:186} INFO - Started process (PID=52572) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-01T20:12:26.150+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-10-01T20:12:26.151+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:12:26.151+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-01T20:12:26.157+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:12:26.157+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-01T20:12:26.161+0700] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-10-01T20:12:26.233+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:12:26.233+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-01T20:12:26.267+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:12:26.267+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:12:26.275+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:12:26.275+0700] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-01 00:00:00+00:00, run_after=2021-01-02 00:00:00+00:00
+[2024-10-01T20:12:26.285+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_workday_timetable.py took 0.140 seconds

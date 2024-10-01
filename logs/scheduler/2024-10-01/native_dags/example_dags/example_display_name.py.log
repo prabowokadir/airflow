@@ -1,0 +1,22 @@
+[2024-10-01T20:08:37.928+0700] {processor.py:186} INFO - Started process (PID=52219) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-01T20:08:37.929+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-10-01T20:08:37.930+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:37.930+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-01T20:08:37.990+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-01T20:08:38.127+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:38.127+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:example_display_name
+[2024-10-01T20:08:38.172+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:38.172+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_display_name
+[2024-10-01T20:08:38.180+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:38.180+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_display_name
+[2024-10-01T20:08:38.186+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:38.185+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_display_name
+[2024-10-01T20:08:38.197+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:38.197+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_display_name
+[2024-10-01T20:08:38.201+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:38.201+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_display_name
+[2024-10-01T20:08:38.215+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:38.214+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_display_name
+[2024-10-01T20:08:38.215+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:38.215+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:08:38.221+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:38.221+0700] {dag.py:3262} INFO - Creating ORM DAG for example_display_name
+[2024-10-01T20:08:38.221+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:38.221+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-10-01T20:08:38.242+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py took 0.316 seconds
+[2024-10-01T20:11:25.421+0700] {processor.py:186} INFO - Started process (PID=52450) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-01T20:11:25.422+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-10-01T20:11:25.423+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:11:25.423+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-01T20:11:25.491+0700] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py
+[2024-10-01T20:11:25.544+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:11:25.544+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:11:25.548+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:11:25.548+0700] {dag.py:4180} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-10-01T20:11:25.567+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_display_name.py took 0.148 seconds

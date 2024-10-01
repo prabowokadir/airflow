@@ -1,0 +1,22 @@
+[2024-10-01T20:08:17.530+0700] {processor.py:186} INFO - Started process (PID=52197) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-01T20:08:17.531+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-10-01T20:08:17.532+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:17.532+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-01T20:08:17.544+0700] {processor.py:925} INFO - DAG(s) 'latest_only_with_trigger' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-01T20:08:17.712+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:17.712+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:latest_only_with_trigger
+[2024-10-01T20:08:17.718+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:17.717+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:latest_only_with_trigger
+[2024-10-01T20:08:17.722+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:17.721+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:latest_only_with_trigger
+[2024-10-01T20:08:17.738+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:17.738+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:latest_only_with_trigger
+[2024-10-01T20:08:17.748+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:17.748+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:latest_only_with_trigger
+[2024-10-01T20:08:17.752+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:17.752+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:latest_only_with_trigger
+[2024-10-01T20:08:17.756+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:17.756+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:latest_only_with_trigger
+[2024-10-01T20:08:17.757+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:17.757+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:08:17.768+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:17.768+0700] {dag.py:3262} INFO - Creating ORM DAG for latest_only_with_trigger
+[2024-10-01T20:08:17.773+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:08:17.773+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-10-01 08:00:00+00:00, run_after=2024-10-01 12:00:00+00:00
+[2024-10-01T20:08:17.788+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.261 seconds
+[2024-10-01T20:11:04.303+0700] {processor.py:186} INFO - Started process (PID=52420) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-01T20:11:04.304+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-10-01T20:11:04.305+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:11:04.305+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-01T20:11:04.315+0700] {processor.py:925} INFO - DAG(s) 'latest_only_with_trigger' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-10-01T20:11:04.396+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:11:04.395+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-01T20:11:04.406+0700] {logging_mixin.py:190} INFO - [2024-10-01T20:11:04.406+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-10-01 08:00:00+00:00, run_after=2024-10-01 12:00:00+00:00
+[2024-10-01T20:11:04.417+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.120 seconds
