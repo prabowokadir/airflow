@@ -1,0 +1,22 @@
+[2024-10-03T01:37:01.515+0700] {processor.py:186} INFO - Started process (PID=1281) to work on /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-10-03T01:37:01.515+0700] {processor.py:914} INFO - Processing file /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-10-03T01:37:01.515+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.515+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-10-03T01:37:01.555+0700] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-10-03T01:37:01.846+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.846+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_subdag_operator
+[2024-10-03T01:37:01.849+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.849+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_subdag_operator
+[2024-10-03T01:37:01.851+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.851+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:example_subdag_operator
+[2024-10-03T01:37:01.854+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.854+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_subdag_operator
+[2024-10-03T01:37:01.856+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.856+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_subdag_operator
+[2024-10-03T01:37:01.858+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.858+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_subdag_operator
+[2024-10-03T01:37:01.860+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.860+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_subdag_operator
+[2024-10-03T01:37:01.860+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.860+0700] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-10-03T01:37:01.865+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.865+0700] {dag.py:3262} INFO - Creating ORM DAG for example_subdag_operator
+[2024-10-03T01:37:01.865+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.865+0700] {dag.py:3262} INFO - Creating ORM DAG for example_subdag_operator.section-1
+[2024-10-03T01:37:01.866+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.866+0700] {dag.py:3262} INFO - Creating ORM DAG for example_subdag_operator.section-2
+[2024-10-03T01:37:01.868+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.868+0700] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-10-03T01:37:01.868+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.868+0700] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-10-03T01:37:01.868+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.868+0700] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-10-03T01:37:01.871+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.871+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-10-03T01:37:01.873+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.873+0700] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-10-03T01:37:01.874+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:01.874+0700] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-10-03T01:37:01.878+0700] {processor.py:208} INFO - Processing /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py took 0.364 seconds

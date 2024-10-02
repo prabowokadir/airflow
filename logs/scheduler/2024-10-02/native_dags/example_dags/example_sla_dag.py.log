@@ -1,0 +1,15 @@
+[2024-10-03T01:37:03.841+0700] {processor.py:186} INFO - Started process (PID=1282) to work on /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-03T01:37:03.841+0700] {processor.py:914} INFO - Processing file /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-10-03T01:37:03.842+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:03.842+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-03T01:37:03.859+0700] {processor.py:925} INFO - DAG(s) 'example_sla_dag' retrieved from /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-10-03T01:37:03.928+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:03.927+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2024-10-03T01:37:03.931+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:03.931+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2024-10-03T01:37:03.933+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:03.933+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2024-10-03T01:37:03.935+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:03.935+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_sla_dag
+[2024-10-03T01:37:03.937+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:03.937+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_sla_dag
+[2024-10-03T01:37:03.939+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:03.939+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_sla_dag
+[2024-10-03T01:37:03.941+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:03.941+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_sla_dag
+[2024-10-03T01:37:03.941+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:03.941+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T01:37:03.945+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:03.945+0700] {dag.py:3262} INFO - Creating ORM DAG for example_sla_dag
+[2024-10-03T01:37:03.949+0700] {logging_mixin.py:190} INFO - [2024-10-03T01:37:03.949+0700] {dag.py:4180} INFO - Setting next_dagrun for example_sla_dag to 2024-10-02 18:34:00+00:00, run_after=2024-10-02 18:36:00+00:00
+[2024-10-03T01:37:03.954+0700] {processor.py:208} INFO - Processing /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.115 seconds
