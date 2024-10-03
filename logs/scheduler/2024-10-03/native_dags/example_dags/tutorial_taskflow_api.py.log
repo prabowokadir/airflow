@@ -1,0 +1,35 @@
+[2024-10-03T19:22:24.591+0700] {processor.py:186} INFO - Started process (PID=89834) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:22:24.591+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-10-03T19:22:24.592+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:22:24.592+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:22:24.657+0700] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:22:24.709+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:22:24.708+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:22:24.713+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:22:24.713+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-10-03T19:22:24.726+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.138 seconds
+[2024-10-03T19:25:12.732+0700] {processor.py:186} INFO - Started process (PID=90116) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:25:12.736+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-10-03T19:25:12.737+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:25:12.737+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:25:12.796+0700] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:25:12.848+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:25:12.847+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:25:12.852+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:25:12.852+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-10-03T19:25:12.875+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.145 seconds
+[2024-10-03T19:27:29.081+0700] {processor.py:186} INFO - Started process (PID=90339) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:27:29.086+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-10-03T19:27:29.087+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:29.087+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:27:29.140+0700] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:27:29.187+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:29.186+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:27:29.191+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:29.191+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-10-03T19:27:29.202+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.123 seconds
+[2024-10-03T19:29:24.809+0700] {processor.py:186} INFO - Started process (PID=90581) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:29:24.810+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-10-03T19:29:24.810+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:29:24.810+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:29:24.854+0700] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:29:24.898+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:29:24.898+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:29:24.903+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:29:24.903+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-10-03T19:29:24.920+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.113 seconds
+[2024-10-03T19:31:08.998+0700] {processor.py:186} INFO - Started process (PID=90968) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:31:08.999+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-10-03T19:31:09.000+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:31:09.000+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:31:09.044+0700] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-10-03T19:31:09.089+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:31:09.088+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:31:09.093+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:31:09.093+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-10-03T19:31:09.101+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.105 seconds

@@ -1,0 +1,21 @@
+[2024-10-03T19:24:13.548+0700] {processor.py:186} INFO - Started process (PID=89988) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-03T19:24:13.549+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-10-03T19:24:13.549+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:24:13.549+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-03T19:24:13.773+0700] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-03T19:24:13.925+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:24:13.925+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:24:13.929+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:24:13.929+0700] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-10-03T19:24:13.949+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.404 seconds
+[2024-10-03T19:27:10.137+0700] {processor.py:186} INFO - Started process (PID=90312) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-03T19:27:10.138+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-10-03T19:27:10.139+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:10.139+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-03T19:27:10.319+0700] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-03T19:27:10.444+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:10.444+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:27:10.448+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:10.448+0700] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-10-03T19:27:10.457+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.322 seconds
+[2024-10-03T19:30:50.247+0700] {processor.py:186} INFO - Started process (PID=90927) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-03T19:30:50.248+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-10-03T19:30:50.249+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:30:50.249+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-03T19:30:50.401+0700] {processor.py:925} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-10-03T19:30:50.514+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:30:50.513+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:30:50.518+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:30:50.517+0700] {dag.py:4180} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-10-03T19:30:50.526+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.280 seconds
