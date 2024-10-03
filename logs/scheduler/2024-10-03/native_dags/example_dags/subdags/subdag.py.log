@@ -13,3 +13,8 @@
 [2024-10-03T19:27:12.753+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:12.753+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
 [2024-10-03T19:27:12.755+0700] {processor.py:927} WARNING - No viable dags retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
 [2024-10-03T19:27:12.819+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.069 seconds
+[2024-10-03T19:29:12.115+0700] {processor.py:186} INFO - Started process (PID=90554) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-10-03T19:29:12.116+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-10-03T19:29:12.116+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:29:12.116+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-10-03T19:29:12.119+0700] {processor.py:927} WARNING - No viable dags retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-10-03T19:29:12.182+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.068 seconds

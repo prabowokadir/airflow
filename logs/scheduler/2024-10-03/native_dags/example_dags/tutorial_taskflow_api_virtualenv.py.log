@@ -19,3 +19,10 @@
 [2024-10-03T19:27:25.742+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:25.741+0700] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-10-03T19:27:25.746+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:25.746+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
 [2024-10-03T19:27:25.761+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.218 seconds
+[2024-10-03T19:29:22.362+0700] {processor.py:186} INFO - Started process (PID=90574) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2024-10-03T19:29:22.363+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2024-10-03T19:29:22.363+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:29:22.363+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2024-10-03T19:29:22.416+0700] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api_virtualenv' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2024-10-03T19:29:22.520+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:29:22.520+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:29:22.524+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:29:22.524+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_taskflow_api_virtualenv to None, run_after=None
+[2024-10-03T19:29:22.541+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.180 seconds
