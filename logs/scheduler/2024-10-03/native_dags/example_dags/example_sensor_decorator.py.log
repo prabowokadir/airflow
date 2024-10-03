@@ -22,3 +22,11 @@
 [2024-10-03T19:28:30.106+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:30.106+0700] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-10-03T19:28:30.111+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:30.111+0700] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
 [2024-10-03T19:28:30.120+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.144 seconds
+[2024-10-03T19:30:09.467+0700] {processor.py:186} INFO - Started process (PID=90774) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-10-03T19:30:09.468+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-10-03T19:30:09.468+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:30:09.468+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-10-03T19:30:09.516+0700] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-10-03T19:30:09.557+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:30:09.556+0700] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-10-03T19:30:09.583+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:30:09.583+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:30:09.587+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:30:09.587+0700] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-10-03T19:30:09.596+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.131 seconds

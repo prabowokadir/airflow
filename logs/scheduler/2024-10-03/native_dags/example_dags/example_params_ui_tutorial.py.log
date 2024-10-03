@@ -19,3 +19,10 @@
 [2024-10-03T19:28:39.397+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:39.397+0700] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-10-03T19:28:39.401+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:39.401+0700] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
 [2024-10-03T19:28:39.411+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.126 seconds
+[2024-10-03T19:30:19.812+0700] {processor.py:186} INFO - Started process (PID=90844) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-10-03T19:30:19.813+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2024-10-03T19:30:19.813+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:30:19.813+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-10-03T19:30:20.028+0700] {processor.py:925} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2024-10-03T19:30:20.193+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:30:20.193+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:30:20.198+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:30:20.198+0700] {dag.py:4180} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2024-10-03T19:30:20.208+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.399 seconds
