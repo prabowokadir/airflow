@@ -1,0 +1,21 @@
+[2024-10-03T19:22:50.458+0700] {processor.py:186} INFO - Started process (PID=89888) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-03T19:22:50.459+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-03T19:22:50.459+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:22:50.459+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-03T19:22:50.465+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-03T19:22:50.533+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:22:50.533+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:22:50.538+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:22:50.537+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-10-03T19:22:50.545+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.090 seconds
+[2024-10-03T19:25:49.573+0700] {processor.py:186} INFO - Started process (PID=90180) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-03T19:25:49.574+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-03T19:25:49.575+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:25:49.575+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-03T19:25:49.585+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-03T19:25:49.652+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:25:49.652+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:25:49.656+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:25:49.656+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-10-03T19:25:49.667+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.096 seconds
+[2024-10-03T19:28:01.652+0700] {processor.py:186} INFO - Started process (PID=90370) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-03T19:28:01.654+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-10-03T19:28:01.654+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:01.654+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-03T19:28:01.664+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2024-10-03T19:28:01.736+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:01.736+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:28:01.741+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:01.741+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-10-03T19:28:01.755+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.105 seconds

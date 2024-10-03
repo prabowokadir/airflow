@@ -1,0 +1,21 @@
+[2024-10-03T19:23:16.039+0700] {processor.py:186} INFO - Started process (PID=89932) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-03T19:23:16.039+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-10-03T19:23:16.040+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:23:16.040+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-03T19:23:16.088+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-03T19:23:16.207+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:23:16.207+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:23:16.211+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:23:16.211+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-10-03T19:23:16.220+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py took 0.183 seconds
+[2024-10-03T19:26:18.465+0700] {processor.py:186} INFO - Started process (PID=90240) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-03T19:26:18.466+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-10-03T19:26:18.467+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:26:18.466+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-03T19:26:18.519+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-03T19:26:18.657+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:26:18.657+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:26:18.662+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:26:18.661+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-10-03T19:26:18.678+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py took 0.215 seconds
+[2024-10-03T19:28:35.093+0700] {processor.py:186} INFO - Started process (PID=90428) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-03T19:28:35.093+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py for tasks to queue
+[2024-10-03T19:28:35.094+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:35.094+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-03T19:28:35.144+0700] {processor.py:925} INFO - DAG(s) 'example_python_decorator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py
+[2024-10-03T19:28:35.292+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:35.292+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:28:35.296+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:35.296+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_decorator to None, run_after=None
+[2024-10-03T19:28:35.307+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_decorator.py took 0.216 seconds

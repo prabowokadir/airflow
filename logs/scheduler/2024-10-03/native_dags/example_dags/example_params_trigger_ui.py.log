@@ -1,0 +1,21 @@
+[2024-10-03T19:23:25.755+0700] {processor.py:186} INFO - Started process (PID=89946) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-03T19:23:25.756+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-10-03T19:23:25.757+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:23:25.757+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-03T19:23:25.823+0700] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-03T19:23:25.883+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:23:25.883+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:23:25.888+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:23:25.888+0700] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-10-03T19:23:25.901+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.148 seconds
+[2024-10-03T19:26:28.349+0700] {processor.py:186} INFO - Started process (PID=90260) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-03T19:26:28.351+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-10-03T19:26:28.351+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:26:28.351+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-03T19:26:28.411+0700] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-03T19:26:28.479+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:26:28.479+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:26:28.483+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:26:28.483+0700] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-10-03T19:26:28.492+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.144 seconds
+[2024-10-03T19:28:41.628+0700] {processor.py:186} INFO - Started process (PID=90439) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-03T19:28:41.632+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-10-03T19:28:41.632+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:41.632+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-03T19:28:41.711+0700] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-10-03T19:28:41.781+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:41.781+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:28:41.786+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:41.786+0700] {dag.py:4180} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-10-03T19:28:41.810+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.185 seconds

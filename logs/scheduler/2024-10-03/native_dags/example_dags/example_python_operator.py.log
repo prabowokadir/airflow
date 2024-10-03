@@ -1,0 +1,21 @@
+[2024-10-03T19:23:13.557+0700] {processor.py:186} INFO - Started process (PID=89926) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-03T19:23:13.557+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-10-03T19:23:13.558+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:23:13.558+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-03T19:23:13.607+0700] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-03T19:23:13.730+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:23:13.730+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:23:13.734+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:23:13.734+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-10-03T19:23:13.745+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.190 seconds
+[2024-10-03T19:26:15.528+0700] {processor.py:186} INFO - Started process (PID=90238) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-03T19:26:15.529+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-10-03T19:26:15.530+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:26:15.530+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-03T19:26:15.568+0700] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-03T19:26:15.695+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:26:15.694+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:26:15.699+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:26:15.699+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-10-03T19:26:15.708+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.182 seconds
+[2024-10-03T19:28:32.674+0700] {processor.py:186} INFO - Started process (PID=90425) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-03T19:28:32.677+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-10-03T19:28:32.677+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:32.677+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-03T19:28:32.727+0700] {processor.py:925} INFO - DAG(s) 'example_python_operator' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2024-10-03T19:28:32.843+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:32.843+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:28:32.849+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:28:32.848+0700] {dag.py:4180} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-10-03T19:28:32.859+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.187 seconds

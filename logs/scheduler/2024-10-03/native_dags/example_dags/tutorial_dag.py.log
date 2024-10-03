@@ -1,0 +1,21 @@
+[2024-10-03T19:22:30.826+0700] {processor.py:186} INFO - Started process (PID=89843) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-03T19:22:30.828+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-03T19:22:30.829+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:22:30.829+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-03T19:22:30.869+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-03T19:22:30.916+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:22:30.916+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:22:30.920+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:22:30.920+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-03T19:22:30.930+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.106 seconds
+[2024-10-03T19:25:20.126+0700] {processor.py:186} INFO - Started process (PID=90129) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-03T19:25:20.128+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-03T19:25:20.129+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:25:20.128+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-03T19:25:20.223+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-03T19:25:20.274+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:25:20.274+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:25:20.278+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:25:20.278+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-03T19:25:20.295+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.176 seconds
+[2024-10-03T19:27:34.562+0700] {processor.py:186} INFO - Started process (PID=90344) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-03T19:27:34.564+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-03T19:27:34.564+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:34.564+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-03T19:27:34.610+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-03T19:27:34.659+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:34.659+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:27:34.663+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:34.663+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-03T19:27:34.673+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial_dag.py took 0.113 seconds

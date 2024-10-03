@@ -1,0 +1,21 @@
+[2024-10-03T19:22:33.326+0700] {processor.py:186} INFO - Started process (PID=89850) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T19:22:33.327+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T19:22:33.327+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:22:33.327+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T19:22:33.333+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T19:22:33.419+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:22:33.419+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:22:33.434+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:22:33.434+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T19:22:33.448+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.124 seconds
+[2024-10-03T19:25:23.489+0700] {processor.py:186} INFO - Started process (PID=90134) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T19:25:23.490+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T19:25:23.491+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:25:23.491+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T19:25:23.498+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T19:25:23.575+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:25:23.575+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:25:23.584+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:25:23.584+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T19:25:23.592+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.105 seconds
+[2024-10-03T19:27:37.610+0700] {processor.py:186} INFO - Started process (PID=90347) to work on /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T19:27:37.611+0700] {processor.py:914} INFO - Processing file /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-10-03T19:27:37.611+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:37.611+0700] {dagbag.py:588} INFO - Filling up the DagBag from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T19:27:37.623+0700] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2024-10-03T19:27:37.704+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:37.704+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-03T19:27:37.713+0700] {logging_mixin.py:190} INFO - [2024-10-03T19:27:37.713+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2024-10-02 00:00:00+00:00, run_after=2024-10-03 00:00:00+00:00
+[2024-10-03T19:27:37.727+0700] {processor.py:208} INFO - Processing /Users/prabowo.kadir/.pyenv/versions/3.8.18/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.121 seconds
